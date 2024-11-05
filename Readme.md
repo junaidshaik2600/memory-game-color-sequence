@@ -18,7 +18,7 @@ The game is built with a focus on user interaction, response accuracy, and step-
 - **Random Sequence Generation:** Displays a random sequence of colors that the player must remember.
 - **Level Progression:** Increases the difficulty with each successful round.
 - **Custom Sound Effects:** Uses sound files for better user interaction.
-- **Game Over Handling:** Displays a message when the player fails to complete the sequence correctly..
+- **Game Over Handling:** Displays a message when the player fails to complete the sequence correctly.
 
 ## How to Play
 1. Press any key to start the game.
