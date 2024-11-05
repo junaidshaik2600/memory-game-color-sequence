@@ -35,4 +35,4 @@ The game is built with a focus on user interaction, response accuracy, and step-
 ## Credits
 - **Sounds:** Sound files used in this project have been sourced from online sound libraries.
 - **CSS and HTML:** The styling and structure are adapted from publicly available resources to suit the game design.
-- **JavaScript Logic:** Developed entirely from scratch, using my own problem-solving skills and logic..
+- **JavaScript Logic:** Developed entirely from scratch, using my own problem-solving skills and logic.
