@@ -10,7 +10,7 @@ This project is a **Memory Game** created using HTML, CSS, and JavaScript. It ch
 - [Credits](#credits)
 
 ## Project Description
-The game is built with a focus on user interaction, response accuracy, and step-by-step progression. The core logic of this game is designed using JavaScript, implemented with efficient and clean code to ensure seamless performance and user engagement..
+The game is built with a focus on user interaction, response accuracy, and step-by-step progression. The core logic of this game is designed using JavaScript, implemented with efficient and clean code to ensure seamless performance and user engagement.
 
 **Important:** The HTML structure and CSS styles for this project have been adapted from various online sources, while the JavaScript logic is uniquely developed by me, ensuring originality and creative problem-solving.
 
