@@ -1,6 +1,6 @@
 # Memory Game Project
 
-This project is a **Memory Game** created using HTML, CSS, and JavaScript. It challenges the player to remember and replicate sequences of colors in increasing levels of difficulty. The primary focus of this project is on the JavaScript logic, which has been developed from scratch using core concepts like asynchronous programming, event handling, and dynamic DOM manipulation..
+This project is a **Memory Game** created using HTML, CSS, and JavaScript. It challenges the player to remember and replicate sequences of colors in increasing levels of difficulty. The primary focus of this project is on the JavaScript logic, which has been developed from scratch using core concepts like asynchronous programming, event handling, and dynamic DOM manipulation.
 
 ## Table of Contents
 - [Project Description](#project-description)
